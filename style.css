@@ -3,7 +3,7 @@ body {
     background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-    background-image: url('images/background.jpg'); /* Path to your background image */
+    background-image: url('background.jpg'); /* Path to your background image */
     background-size: cover; /* Cover the entire page */
     background-position: center; /* Center the background image */
 }
