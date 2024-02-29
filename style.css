@@ -1,0 +1,29 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+h1, p {
+    margin: 0 0 20px 0;
+}
+.buttons a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 0 10px 10px 0;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+.buttons a:hover {
+    background-color: #0056b3;
+}
